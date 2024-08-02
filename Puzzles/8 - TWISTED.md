@@ -3,6 +3,7 @@
 **Tags:** 
 # Description
 TWISTED
+![[TWISTED.jpg]]
 # Transcript
 Image with checker board pattern of purple and lite purple diamonds.
 The background pattern distorts into a swirl in the center.
