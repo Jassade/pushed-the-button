@@ -1,0 +1,2 @@
+* [Franciscans](https://en.wikipedia.org/wiki/Franciscans) - The Franciscans are a group of related mendicant religious orders of the Catholic Church.
+* [Mendicants](https://en.wikipedia.org/wiki/Mendicant_orders) - Mendicant orders are, primarily, certain Roman Catholic religious orders that have adopted for their male members a lifestyle of poverty, traveling, and living in urban areas for purposes of preaching, evangelization, and ministry, especially to the poor.
