@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5d28a608d93d98a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad47115ed927e708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5ff196b8a8d4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5c61c16aea6c886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PasteBin/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0b2c516dd2c7538",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9c425486f897ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09937c07ef1f047",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea095efdfc47cd16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Funding",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d5dbd951de6bf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c74278bc0b73fe08",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dfc039a3e622df6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a911c8791bafe485",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PasteBin/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f80781a0a7dd46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PasteBin/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54e27ebd39266980",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81beb991cfb7db9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PasteBin/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e5c61c16aea6c886",
+  "lastOpenFiles": [
+    "pushed-the-button/LICENSE",
+    "pushed-the-button",
+    "PasteBin/Subject {URGENT} Immediate Action Required.md",
+    "PasteBin/REDEMPTION.md",
+    "PasteBin/ISurrenderMyFlesh.md",
+    "PasteBin/April 4, 2024.md",
+    "Puzzles/8 - TWISTED.md",
+    "Puzzles/5 - Boss.mp4.md",
+    "Puzzles/6 - Ancient History.md",
+    "Puzzles/7 - The Button.md",
+    "PasteBin/Untitled.md",
+    "Techniques.md",
+    "Loose ends.md",
+    "Puzzles/4 - HELPME.mp4.md",
+    "Artifacts/BOSS X X.png",
+    "Artifacts/Boss YT X.png",
+    "Puzzles/3 - recall.mp4.md",
+    "Puzzles/2 - Answer.mp4.md",
+    "Artifacts/Ancient History 1.png",
+    "Puzzles/1 - TheFirstVictim.mp4.md",
+    "Videos.md",
+    "Timeline.md",
+    "Bible/Verses.md",
+    "Artifacts/[REDACTED] Testing Trials I.md",
+    "Substance.md",
+    "People/The Lost One.md",
+    "I Pushed The Button.md",
+    "Untitled.canvas",
+    "People/HE.md",
+    "People/Liam Anderson.md",
+    "People/HER.md",
+    "Artifacts/Incident Report.pdf",
+    "Artifacts/[REDACTED] Testing Trials I.pdf",
+    "Templates",
+    "Videos/Untitled.canvas",
+    "Places",
+    "People",
+    "Bible",
+    "Artifacts",
+    "Puzzles",
+    "PasteBin"
+  ]
+}
