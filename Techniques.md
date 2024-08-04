@@ -16,3 +16,4 @@ https://wiki.gamedetectives.net/index.php?title=ARG_Toolbox
 # Places to get stuff
 https://www.youtube.com/@IPushedTheButton...---.../videos
 https://x.com/PU5H3D7H36U770N
+https://www.pinterest.com/LessonLearnedButton/_created/
