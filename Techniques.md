@@ -3,7 +3,7 @@ Caesar Shift - https://www.dcode.fr/caesar-cipher
 * NOTE: It is common for numbers to be left alone when shifting.
 Morse Code - https://morsecode.world/international/translator.html
 Spectrogram - Audacity with ripped audio from 
-* YT - add 9x before the youtube
+* YT - add 9x before the YouTube
 * https://x-downloader.com/download/knk8iET6d
 YouTube Video Metadata
 * https://mattw.io/youtube-metadata/
