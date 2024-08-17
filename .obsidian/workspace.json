@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Puzzles/11 - Chasing Misery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4540cc887f75417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Loose ends.md",
                 "mode": "source",
                 "source": false
@@ -20,14 +32,32 @@
             }
           },
           {
-            "id": "097ffc7b27d19033",
+            "id": "0459bc974ce28cb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Forms/Form 2 - FEAR.md",
-                "mode": "source",
-                "source": false
+                "file": "Artifacts/Chasing Misery 1.png"
+              }
+            }
+          },
+          {
+            "id": "0bd745c517fdc8d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Artifacts/Chasing Misery 2.png"
+              }
+            }
+          },
+          {
+            "id": "63d5257794ff636a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Artifacts/Chasing Misery 3.png"
               }
             }
           }
@@ -60,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "form",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loose ends.md",
+                "file": "Puzzles/11 - Chasing Misery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loose ends.md",
+                "file": "Puzzles/11 - Chasing Misery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loose ends.md"
+                "file": "Puzzles/11 - Chasing Misery.md"
               }
             }
           }
@@ -160,35 +190,38 @@
   },
   "active": "2dd4b594ba10352e",
   "lastOpenFiles": [
-    "Artifacts/[REDACTED] Animal Testing Trials.md",
+    "Artifacts/Chasing Misery 1.png",
     "Loose ends.md",
+    "Puzzles/11 - Chasing Misery.md",
+    "Bible/Verses.md",
+    "Forms/Form 1 - ...---....md",
+    "PasteBin/FRIGID.md",
+    "PasteBin/DRIVING.md",
+    "PasteBin/April 4, 2024.md",
+    "PasteBin/ISurrenderMyFlesh.md",
+    "PasteBin/LIAM-ENTITY.md",
+    "PasteBin/REDEMPTION.md",
+    "PasteBin/STORAGE 95%.md",
+    "PasteBin/Subject {URGENT} Immediate Action Required.md",
+    "PasteBin/Untitled.md",
+    "Puzzles/9 - Consumption.md",
     "Puzzles/10 - IUnderstandAnatomy.mp4.md",
     "Forms/Form 2 - FEAR.md",
-    "Forms/Form 1 - ...---....md",
+    "Puzzles/8 - TWISTED.md",
+    "Puzzles/7 - The Button.md",
+    "Puzzles/6 - Ancient History.md",
+    "Puzzles/5 - Boss.mp4.md",
+    "Artifacts/Chasing Misery 3.png",
+    "Artifacts/Chasing Misery 2.png",
+    "Artifacts/[REDACTED] Animal Testing Trials.md",
     "Artifacts/The Golden Key.jpg",
     "Techniques.md",
-    "PasteBin/STORAGE 95%.md",
     "Artifacts/IUnderstandAnnotomy.png",
     "Artifacts/July 4th, 2024 E-mail.pdf",
     "Puzzles/3 - recall.mp4.md",
     "Forms",
     "Puzzles/2 - Answer.mp4.md",
     "Puzzles/1 - TheFirstVictim.mp4.md",
-    "Artifacts/[REDACTED] Testing Trials I.md",
-    "PasteBin/Untitled.md",
-    "PasteBin/Untitled 1.md",
-    "PasteBin/Subject {URGENT} Immediate Action Required.md",
-    "PasteBin/REDEMPTION.md",
-    "PasteBin/LIAM-ENTITY.md",
-    "PasteBin/ISurrenderMyFlesh.md",
-    "PasteBin/FRIGID.md",
-    "PasteBin/DRIVING.md",
-    "PasteBin/April 4, 2024.md",
-    "PasteBin.md",
-    "Pinterest/, ...---....md",
-    "Pinterest/7-27-24.md",
-    "Artifacts/[REDACTED] Testing Trials II.md",
-    "Timeline.md",
     "Artifacts/[REDACTED] Testing Trials I.pdf",
     "Artifacts/[REDACTED] Animal Testing Trials.pdf",
     "Pinterest",
@@ -199,7 +232,6 @@
     "Artifacts/Boss YT X.png",
     "Artifacts/BOSS X X.png",
     "Artifacts/Ancient History 1.png",
-    "Artifacts/TWISTED.jpg",
     "pushed-the-button/LICENSE",
     "pushed-the-button",
     "Untitled.canvas",
