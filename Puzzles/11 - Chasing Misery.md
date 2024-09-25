@@ -1,3 +1,4 @@
+# THIS HAS BEEN REMOVED AND REPLACED WITH [[12 - Chasing Misery UPDATE]]
 **Source:** X
 **Link:** https://x.com/PU5H3D7H36U770N/status/1824672506760007941
 # Description
@@ -22,13 +23,43 @@ I believe that the pencils with led indicate the boundary between sections
 
 |     | Group 1   | Group 2    | Group 3 |
 | --- | --------- | ---------- | ------- |
-| 1   | `AAB`     | `CCAAB`    | `CCAB`  |
+| 1   | `AAB`     | `CCAAAB`   | `CCAB`  |
 | 2   | `CCCCAAB` | `CCCCAAAB` |         |
-| 3   | `CCAB`    | `AB`       | `CCD`   |
+| 3   | `CCAB`    | `AB`       | `CCCD`  |
 MQRT QUVX
 
 `AAB` `CCAAB` `CCAB` `CCCCAAB` `CCCCAAAB` `CCAB` `AB` `CCD`
 `MMQ` `RRMMQ` `RRMQ` `RRRRMMQ` `RRRRMMMQ` `RRMQ` `MQ` `RRT`
 `QQU` `VVQQU` `VVQU` `VVVVQQU` `VVVVQQQU` `VVQU` `QU` `VVX`
 
-# Lore
+
+AAB CCAAB CCAB CCCCAAB CCCCAAAB CCAB AB CCD
+
+111 00111 0011 0000111 00001111 0011 11 000
+7 - 111
+7 - 00111
+3 - 0011
+7 - 0000111
+15 - 00001111
+3 - 0011
+3 - 11
+0 - 000
+
+000 11000 1100 1111000 11110000 1100 00 111
+0 - 000
+24 - 11000
+12 - 1100
+120 - 1111000
+240 - 11110000
+12 - 1100
+0 - 00
+7 - 111
+
+Lead is out on pencil numbered
+3, 9, 13
+7, 15
+4, 6, 10
+
+C I M
+G O
+D F J
